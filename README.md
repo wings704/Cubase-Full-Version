@@ -240,4 +240,4 @@ This repository serves as the official landing page for Cubase. The software is 
 **Get the most recent version of Cubase today!**
 
 ---
-**Last updated:** 2026-10-21 18:26:44 UTC
+**Last updated:** 2026-10-21 22:09:37 UTC
